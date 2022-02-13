@@ -4,6 +4,8 @@
 
 @import url(../blocks/root/root.css);
 @import url(../blocks/root/__section/root__section.css);
+@import url(../blocks/root/__section/_slim/root__section_slim.css);
+@import url(../blocks/root/__section/_margin_bottom/root__section_margin_bottom.css);
 
 @import url(../blocks/link/link.css);
 
@@ -15,37 +17,19 @@
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 @import url(../blocks/lead/lead.css);
-@import url(../blocks/lead/_margin_bottom/lead_margin_bottom.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/lead/__img_text/lead__img_text.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list/_bold/intro__list_bold.css);
+
 
 /*
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
 @import url(../);
 */
 
