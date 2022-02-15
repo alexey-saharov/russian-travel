@@ -1,0 +1,17 @@
+.places__place {
+  margin-bottom: 80px;
+  max-width: 984px;
+  max-height: 660px;
+  display: grid;
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+  grid-template-columns: minmax(1fr, max-content) minmax(min-content, max-content);
+  grid-template-areas:
+    'title website'
+    'image description';
+  row-gap: 48px;
+  column-gap: 40px;
+}
+
+.places__place:last-of-type {
+  margin-bottom: 0;
+}

@@ -1,0 +1,8 @@
+.places__url-value {
+  margin: 0;
+  text-decoration: underline;
+  line-height: 22px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+}

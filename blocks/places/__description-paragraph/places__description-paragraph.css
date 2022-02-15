@@ -1,0 +1,11 @@
+.places__description-paragraph {
+  margin: 0 0 26px;
+  line-height: 29px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+}
+
+.places__description-paragraph:last-of-type {
+  margin: 0;
+}
