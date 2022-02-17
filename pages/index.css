@@ -12,7 +12,8 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/_padding_top_margin_bottom/header_padding_top_margin_bottom.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__items/header__items.css);
+@import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
