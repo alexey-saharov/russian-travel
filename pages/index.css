@@ -9,7 +9,7 @@
 @import url(../blocks/link/link.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/_padding_top_margin_bottom/header_padding_top_margin_bottom.css);
+@import url(../blocks/header/_margin-bottom/header_margin-bottom.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__items/header__items.css);
 @import url(../blocks/header/__item/header__item.css);
