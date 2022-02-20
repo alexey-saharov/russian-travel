@@ -8,3 +8,9 @@
     margin-bottom: 48px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .header_padding_top_margin_bottom {
+    padding-top: 16px;
+  }
+}

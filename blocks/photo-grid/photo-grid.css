@@ -18,11 +18,17 @@
 @media screen and (max-width: 1023px) {
   .photo-grid {
     max-width: calc(768px - 24px * 2);
+    grid-template-rows: repeat(6, 264px);
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .photo-grid {
     max-width: calc(320px - 16px * 2);
+    grid-template-rows: repeat(12, 216px);
+    grid-template-columns: 100%;
+    gap: 12px;
   }
 }
