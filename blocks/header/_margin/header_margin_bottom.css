@@ -1,15 +1,15 @@
-.header_margin-bottom {
+.header_margin_bottom {
   margin-bottom: 56px;
 }
 
 @media screen and (max-width: 1279px) {
-  .header_margin-bottom {
+  .header_margin_bottom {
     margin-bottom: 48px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .header_margin-bottom {
+  .header_margin_bottom {
     padding-top: 16px;
   }
 }

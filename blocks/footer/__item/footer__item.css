@@ -1,5 +1,4 @@
 .footer__item {
-  height: 18px;
   margin-right: 18px;
 }
 
@@ -10,7 +9,7 @@
 @media screen and (max-width: 767px) {
   .footer__item {
     margin-right: 0;
-    margin-bottom: 38px;
+    margin-bottom: 32px;
   }
 
   .footer__item:last-of-type {
